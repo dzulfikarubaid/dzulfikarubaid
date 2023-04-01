@@ -451,7 +451,7 @@ footer{
         width: 100%;
         /* margin-bottom: 30px; */
         background: var(--color5);
-        padding: 30px 0;
+        padding: 20px 0;
         z-index: 13;
         box-shadow: 10px 2px 20px -10px #878787;
     }
