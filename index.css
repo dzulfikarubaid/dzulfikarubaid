@@ -442,14 +442,25 @@ footer{
         margin: 0;
     }
     nav{
+        position: fixed;
+        bottom: 0;
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 40px;
+        gap: 20px;
+        width: 100%;
+        /* margin-bottom: 30px; */
+        background: var(--color5);
+        padding: 30px 0;
+        z-index: 13;
+        box-shadow: 10px 2px 20px -10px #878787;
     }
     nav li{
         list-style: none;
         margin-right: 0;
+    }
+    nav li a{
+        font-weight:800;
     }
     
     .who-a p, .who p{
@@ -506,10 +517,13 @@ footer{
         transform: translate(0,70px);
     }
     nav{
+        position: fixed;
+        bottom: 0;
         display: flex;
         align-items: center;
         justify-content: center;
         gap: 20px;
+        width: 100%;
     }
     nav li{
         list-style: none;
@@ -517,6 +531,7 @@ footer{
     }
     nav li a{
         font-size: 14px;
+        font-weight:800;
     }
     .skill a{
         font-size: 12px;
