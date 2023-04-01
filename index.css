@@ -447,7 +447,7 @@ footer{
         display: flex;
         align-items: center;
         justify-content: center;
-        gap: 20px;
+        gap: 35px;
         width: 100%;
         /* margin-bottom: 30px; */
         background: var(--color5);
