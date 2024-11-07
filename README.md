@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dzulfikarubaid&langs_count=8&theme=transparent)
+[![trophy](https://github-profile-trophy.vercel.app/?username=dzulfikarubaid&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
